@@ -2,17 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=false&vCenter=true&width=1000&lines=HELLO,+My+name+is+Daniel+Machado;I'm+28+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DanielM047&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DanielM047&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielM047&show_icons=true" />
-</picture>
+
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DanielM047&show_icons=true&theme=tokyonight" />
+</a>
+<!--a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielM047&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
+</a-->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
